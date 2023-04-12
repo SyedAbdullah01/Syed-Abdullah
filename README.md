@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Abdullah.
+- 👀 I’m interested in front end development and programming in general.
+- 🌱 I’m currently learning JavaScript.
