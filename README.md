@@ -19,22 +19,20 @@ Feel free to explore my projects on [My Portfolio](https://syedabdullah.netlify.
 
 ## Recent Projects
 
-1.[NASA APOD](https://nasa-apod-js.netlify.app/)
+### 1. [NASA APOD](https://nasa-apod-js.netlify.app/)
+
 Developed a web application that displays the mesmerizing Astronomy Picture of the Day.
 
-🚀 This project is built in HTML, CSS and JavaScript, allowing users to explore a stunning collection of astronomical images. Each day, the app presents a new captivating image along with an informative description provided by NASA.
+- 🚀 This project is built in HTML, CSS and JavaScript, allowing users to explore a stunning collection of astronomical images. Each day, the app presents a new captivating image along with an informative description provided by NASA.
+- 🌌 The app fetches data from the NASA APOD API, providing users with a glimpse into the wonders of our universe. The intuitive user interface lets you easily navigate through past pictures and learn about the cosmos.
+- 💡 Embark on a cosmic journey and discover the beauty of the universe with the NASA APOD project!
 
-🌌 The app fetches data from the NASA APOD API, providing users with a glimpse into the wonders of our universe. The intuitive user interface lets you easily navigate through past pictures and learn about the cosmos.
+### 2. [Bookmarks Keeper](https://bookmarkapp.netlify.app/)
 
-💡 Embark on a cosmic journey and discover the beauty of the universe with the NASA APOD project!
+Built with HTML, CSS, and vanilla JavaScript, this app offers an intuitive interface for saving, categorizing, and searching your favorite web resources.
 
-
-2. [Bookmarks Keeper](https://bookmarkapp.netlify.app/)
-   Built with HTML, CSS, and vanilla JavaScript, this app offers an intuitive interface for saving, categorizing, and searching your favorite web resources. The responsive design ensures a seamless experience on various devices.
-
-🔧 Bookmarks are stored locally using Local Storage, ensuring your bookmarks are always accessible, even after closing the browser.
-
-💡 Simplify your online life and keep your bookmarks in order with the Bookmarks Keeper app!
+- 🔧 Bookmarks are stored locally using Local Storage, ensuring your bookmarks are always accessible, even after closing the browser.
+- 💡 Simplify your online life and keep your bookmarks in order with the Bookmarks Keeper app!
 
 ## Connect with Me
 
