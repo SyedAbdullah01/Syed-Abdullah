@@ -34,6 +34,16 @@ Built with HTML, CSS, and vanilla JavaScript, this app offers an intuitive inter
 - 🔧 Bookmarks are stored locally using Local Storage, ensuring your bookmarks are always accessible, even after closing the browser.
 - 💡 Simplify your online life and keep your bookmarks in order with the Bookmarks Keeper app!
 
+### 3. [QuoteTreasure](https://quotetreasure.netlify.app)
+
+A web application that showcases an inspiring collection of quotes from various sources.
+
+- 🚀 Built using HTML, CSS, and JavaScript, this project lets users explore a wide range of motivational and thought-provoking quotes.
+- 📚 Quotes are fetched from an external API and displayed with a user-friendly interface.
+- 💡 Share your favorite quotes with your friends and be inspired by the wisdom of others!
+
+
+
 ## Connect with Me
 
 - LinkedIn: [Syed Abdullah Amir](https://www.linkedin.com/in/syed-abdullah-amir-71895b271/)
