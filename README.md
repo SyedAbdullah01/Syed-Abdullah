@@ -27,7 +27,7 @@ Developed a web application that displays the mesmerizing Astronomy Picture of t
 - 🌌 The app fetches data from the NASA APOD API, providing users with a glimpse into the wonders of our universe. The intuitive user interface lets you easily navigate through past pictures and learn about the cosmos.
 - 💡 Embark on a cosmic journey and discover the beauty of the universe with the NASA APOD project!
 
-### 2. [Bookmarks Keeper](https://bookmarkapp.netlify.app/)
+### 2. [Bookmarks Keeper](https://bookmarks-keeper-app.netlify.app)
 
 Built with HTML, CSS, and vanilla JavaScript, this app offers an intuitive interface for saving, categorizing, and searching your favorite web resources.
 
